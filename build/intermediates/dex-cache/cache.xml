@@ -2,11 +2,158 @@
 <items version="2" >
 
     <item
-        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-26.0.0-alpha1_61c1c9e064712d3a89acd611966463c066759bae.jar" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="26.0.1"
-        sha1="f89aae9d2e9422ac413152e3799952771731fbe3">
-        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1fe1ae20ba8d486d23b6005f14b9dac525d63be9/classes.dex" />
+        sha1="cea9e318dfc0ec4f473a393a6776624632a67629">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_22d50c415a3ad99fe914ce6f4e22e9928434d584/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-26.0.0-alpha1_310038c851a9e98c69b026d0fd2708b1ff1d393a.jar" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_61c1c9e064712d3a89acd611966463c066759bae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.0.0-alpha1_d59949cb24e98f58d2f22d051a68a77ac50c9e93/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.0.0-alpha1_310038c851a9e98c69b026d0fd2708b1ff1d393a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="cac8918ecee65cd15ac68ecae3131ddb5e797565">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5e8a10279fa946b26bf5182cccf75d07f8eab7f2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-26.0.0-alpha1_07c100f972244ccb9952fa891bb35a3d61f6c601.jar" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-26.0.0-alpha1_bd295e3d9744b9a4689fa05bfc3f6a7ff1ec6ffc.jar" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.0.0-alpha1_bd295e3d9744b9a4689fa05bfc3f6a7ff1ec6ffc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-26.0.0-alpha1_675c4fe047ac8771b0c3da507793835f07e65d54.jar" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-26.0.0-alpha1_d59949cb24e98f58d2f22d051a68a77ac50c9e93.jar" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.0.0-alpha1_c0f86c1617afe65fccba075f434a677833aa53ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-26.0.0-alpha1_c0f86c1617afe65fccba075f434a677833aa53ef.jar" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.0.0-alpha1_afde8ea3f59bb952f4fdb2b76629f3a9931d9b6b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-26.0.0-alpha1_afde8ea3f59bb952f4fdb2b76629f3a9931d9b6b.jar" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.0.0-alpha1_675c4fe047ac8771b0c3da507793835f07e65d54/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.0.0-alpha1_07c100f972244ccb9952fa891bb35a3d61f6c601/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-26.0.0-alpha1_b4be6edf6dc622d6f4384d889aa35113f55a67e0.jar" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/pre-dexed/release/support-annotations-26.0.0-alpha1_8d4c531da3fd7fe03af3d02314e149dd1a58da85.jar" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.0.0-alpha1_b4be6edf6dc622d6f4384d889aa35113f55a67e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lihaifeng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/lihaifeng/AndroidStudioProjects/MyApplication/android-demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_8d4c531da3fd7fe03af3d02314e149dd1a58da85/classes.dex" />
     </item>
 
 </items>
